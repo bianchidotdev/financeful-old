@@ -1,4 +1,4 @@
-# Momentum Money
+# Financeful
 An opinionated and actionable personal finance blog.
 
 By Michael Bianchi and Brady Lambert.
